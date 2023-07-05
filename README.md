@@ -1,2 +1,0 @@
-# pagina
-página pendeja
