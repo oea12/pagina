@@ -348,6 +348,7 @@ Headers:		'Montserrat', sans-serif;
 .hero-section form.form-has-background-padding {
     padding: 30px 30px 10px 30px;
     background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 13px;
 }
 
 .hero-section form.form-has-background-padding .btn {
@@ -4150,7 +4151,8 @@ form .status i {
 
     .hero-section form {
         margin-top: 20px;
-        margin-bottom: 20px;
+        margin-bottom: 45px;
+        padding-bottom: 20px;
     }
 
     .number {

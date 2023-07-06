@@ -5,3 +5,12 @@
 .etapa {
     margin-bottom: 25px;
 }
+
+@media (max-width:767px) {
+    .hero-section {
+        background-color: #4a4a4a;
+    }
+
+    .hero-section .wrapper {
+    }
+}
