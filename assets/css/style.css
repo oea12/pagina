@@ -390,6 +390,7 @@ Headers:		'Montserrat', sans-serif;
 .hero-section .wrapper .hero-title {
     display: table-cell;
     vertical-align: middle;
+    padding-top: 47px;
 }
 
 .hero-section .owl-carousel,
@@ -790,8 +791,7 @@ ul.check-marks li:before {
 .block {
     overflow: hidden;
     position: relative;
-    padding-top: 70px;
-    padding-left: 70px;
+    padding: 50px;
 }
 
 .background-is-dark {
@@ -3767,7 +3767,7 @@ form .status i {
     }
 
     .block {
-        padding: 40px 0;
+        padding: 0px;
     }
 
     .count-down .countdown-row .countdown-amount {
@@ -4145,8 +4145,8 @@ form .status i {
     }
 
     .hero-section p {
-        font-size: 12px;
-        line-height: 18px;
+        font-size: 2rem;
+        line-height: 2.5rem;
     }
 
     .hero-section form {
