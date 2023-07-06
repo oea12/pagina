@@ -787,9 +787,10 @@ ul.check-marks li:before {
 
 /* 3. Universal classes */
 .block {
-    padding: 70px 0;
     overflow: hidden;
     position: relative;
+    padding-top: 70px;
+    padding-left: 70px;
 }
 
 .background-is-dark {
@@ -3004,18 +3005,12 @@ hr {
 }
 
 .stage.in-progress .icon {
-    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
-    opacity: 0.4;
 }
 
 .stage.not-completed .icon {
-    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=10);
-    opacity: 0.1;
 }
 
 .stage.not-completed .description {
-    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
-    opacity: 0.4;
 }
 
 .stage .icon {
@@ -3922,7 +3917,7 @@ form .status i {
     }
 
     .block {
-        padding: 30px 0;
+        padding: 30px;
     }
 
     .big-gallery .slide {
