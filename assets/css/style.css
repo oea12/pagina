@@ -642,7 +642,6 @@ a.icon i {
 }
 
 img {
-    max-width: 100%;
 }
 
 blockquote {
@@ -1509,7 +1508,7 @@ ul.check-marks li:before {
 }
 
 .big-gallery .slide img {
-    width: 100%;
+    height: 580px !important;
 }
 
 .blog-post {
