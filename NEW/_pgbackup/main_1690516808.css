@@ -1,0 +1,50 @@
+.logo1 {
+    width: 4rem;
+}
+
+.etapa {
+    margin-bottom: 25px;
+}
+
+@media (max-width:767px) {
+    .hero-section {
+        background-color: #4a4a4a;
+    }
+
+    .hero-section .wrapper {
+    }
+}
+
+.logo2 {
+    width: 15rem;
+}
+
+.newimg {
+    width: 100%;
+    padding: 9px;
+    margin: 1px;
+    height: 100%;
+}
+
+.inagen {
+    min-width: 132px;
+    min-height: 133px;
+    max-width: 523px;
+    max-height: 273px;
+}
+
+@media (max-width:991px) {
+    .newimg {
+        min-width: 199px;
+        min-height: 131px;
+        max-width: 217px;
+        max-height: 122px;
+    }
+
+    .big-gallery .slide img {
+        min-width: 225px;
+        max-width: 88px;
+        min-height: 127px;
+        max-height: 190px;
+    }
+}
